@@ -1,0 +1,14 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border=box;
+font-family:'poppins';
+}
+.menu h1{
+font-size:32px;
+color:red;
+}
+.menu p{
+color:#000;
+font-size:25px;
+}
